@@ -1,0 +1,16 @@
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\bin\Debug\net8.0\inputs.txt
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\bin\Debug\net8.0\IT230-Arrays1.exe
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\bin\Debug\net8.0\IT230-Arrays1.deps.json
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\bin\Debug\net8.0\IT230-Arrays1.runtimeconfig.json
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\bin\Debug\net8.0\IT230-Arrays1.dll
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\bin\Debug\net8.0\IT230-Arrays1.pdb
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.AssemblyInfoInputs.cache
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.AssemblyInfo.cs
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.sourcelink.json
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.dll
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\refint\IT230-Arrays1.dll
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.pdb
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\IT230-Arrays1.genruntimeconfig.cache
+C:\Users\Glog\Documents\GitHub\it230-arrays1-lbrooks81\IT230-Arrays1\obj\Debug\net8.0\ref\IT230-Arrays1.dll
